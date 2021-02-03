@@ -10,7 +10,7 @@ Basically this regard the conversion of `*.deb` packages to `*,zst` pakages for 
 ### Step 3. Inside unpacked archive/folder we find the package of interest, this is: 
 `/cnijfilter2-5.80-1-deb/packages/cnijfilter2_5.80-1_amd64.deb`
 
-### Step 4.** Install 'debtap' with Code: 
+### Step 4. Install 'debtap' with Code: 
 `sudo pacman -S --needed debtap`
 
 ### Step 5. Initialize 'debtap' with Code:
