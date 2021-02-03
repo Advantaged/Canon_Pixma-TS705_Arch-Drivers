@@ -1,5 +1,5 @@
 # Canon_Pixma-TS705_Arch-and-or-Manjaro_Drivers
-Basically this regard the conversion of `*.deb` packages to `*,zst` pakages for and non newbie.
+Basically this regard the conversion of `*.deb` packages to `*.zst` pakages for and non newbie.
 
 # [Canon PIXMA TS705 Drivers](https://www.canon.de/support/consumer_products/products/fax__multifunctionals/inkjet/pixma_ts_series/pixma-ts705.html?type=drivers&language=de&os=linux%20(64-bit))
 
