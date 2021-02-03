@@ -3,7 +3,7 @@ Basically this regard the conversion of `*.deb` packages to `*,zst` pakages for 
 
 # [Canon PIXMA TS705 Drivers](https://www.canon.de/support/consumer_products/products/fax__multifunctionals/inkjet/pixma_ts_series/pixma-ts705.html?type=drivers&language=de&os=linux%20(64-bit))
 
-### Step 1. Download [Canon PIXMA TS705 Drivers](https://www.canon.de/support/consumer_products/products/fax__multifunctionals/inkjet/pixma_ts_series/pixma-ts705.html?type=drivers&language=de&os=linux%20(64-bit)), choose " [(debian Packagearchive)](https://www.canon.de/support/consumer_products/products/fax__multifunctionals/inkjet/pixma_ts_series/pixma-ts705.html?type=drivers&driverdetailid=tcm:83-1821456&os=linux%20%2864-bit%29&language=de).
+### Step 1. Download [Canon PIXMA TS705 Drivers](https://www.canon.de/support/consumer_products/products/fax__multifunctionals/inkjet/pixma_ts_series/pixma-ts705.html?type=drivers&language=de&os=linux%20(64-bit)), choose [(debian Packagearchive)](https://www.canon.de/support/consumer_products/products/fax__multifunctionals/inkjet/pixma_ts_series/pixma-ts705.html?type=drivers&driverdetailid=tcm:83-1821456&os=linux%20%2864-bit%29&language=de).
 ### Step 2. Unpack the archive with File-manager or Code: 
 `tar xzf cnijfilter2-5.80-1-deb.tar.gz`
 
