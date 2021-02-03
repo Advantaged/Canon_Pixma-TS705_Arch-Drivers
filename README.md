@@ -11,8 +11,11 @@ Basically this regard the conversion of `*.deb` packages to `*.zst` pakages for 
 `/cnijfilter2-5.80-1-deb/packages/cnijfilter2_5.80-1_amd64.deb`
 
 ### Step 4. Install 'debtap' and other necessary packages  with Code: 
-`sudo pacman -S --needed bash base-devel git wget binutils pkgfile fakeroot debtap system-config-printer cups-pk-helper cups-pdf`
-
+```
+sudo pacman -S --needed bash base-devel git wget binutils pkgfile fakeroot \
+debtap system-config-printer cups-pk-helper cups-pdf
+```
+don't worry about `\` (back-slash) in Linux, it just mean 'continue command or list in next line!'.
 ### Step 5. Initialize 'debtap' with Code:
 `sudo debtap -u`
 
